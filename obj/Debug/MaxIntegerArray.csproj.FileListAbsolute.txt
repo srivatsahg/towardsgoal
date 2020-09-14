@@ -5,3 +5,10 @@ C:\Personal\Technical\Codility\Sample01\MaxIntegerArray\obj\Debug\MaxIntegerArra
 C:\Personal\Technical\Codility\Sample01\MaxIntegerArray\obj\Debug\MaxIntegerArray.csproj.CoreCompileInputs.cache
 C:\Personal\Technical\Codility\Sample01\MaxIntegerArray\obj\Debug\MaxIntegerArray.exe
 C:\Personal\Technical\Codility\Sample01\MaxIntegerArray\obj\Debug\MaxIntegerArray.pdb
+C:\Personal\Technical\Codility\TowardsGoal\towardsgoal\bin\Debug\MaxIntegerArray.exe.config
+C:\Personal\Technical\Codility\TowardsGoal\towardsgoal\bin\Debug\MaxIntegerArray.exe
+C:\Personal\Technical\Codility\TowardsGoal\towardsgoal\bin\Debug\MaxIntegerArray.pdb
+C:\Personal\Technical\Codility\TowardsGoal\towardsgoal\obj\Debug\MaxIntegerArray.csprojAssemblyReference.cache
+C:\Personal\Technical\Codility\TowardsGoal\towardsgoal\obj\Debug\MaxIntegerArray.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Codility\TowardsGoal\towardsgoal\obj\Debug\MaxIntegerArray.exe
+C:\Personal\Technical\Codility\TowardsGoal\towardsgoal\obj\Debug\MaxIntegerArray.pdb
